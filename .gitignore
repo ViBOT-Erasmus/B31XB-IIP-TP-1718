@@ -111,6 +111,11 @@
 *.sagetex.py
 *.sagetex.scmd
 
+#python 
+.ipynb_checkpoints
+*.pyc
+*.py~
+
 # sympy
 *.sout
 *.sympy
