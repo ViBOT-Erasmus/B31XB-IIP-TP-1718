@@ -1,0 +1,4 @@
+This is the first line of data.txt
+This is the second line of data.txtI want to add a third line
+And mayve a fourth...
+ où la présence exceptionnelle du roi n’a pas toujours été appréciée. 
